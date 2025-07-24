@@ -1,0 +1,91 @@
+
+
+a:hover,
+a:focus {
+    color:#ff80bf;
+}
+
+
+.con1 > div, .con2 > div, .con3 > div { 
+	background-color:#ff80bf;
+}
+
+.scrollup:hover {
+	background:#ff80bf;
+}
+
+
+/* service */
+
+.service-icon span {
+	color:#ff80bf;
+}
+
+
+
+/* button */
+.btn-skin {
+  background-color:#ff80bf;
+  border-color:#ff80bf;
+}
+
+
+/* top */
+.top-area {
+	background:#ff80bf;
+}
+
+/* menu */
+
+.navbar-custom ul.nav ul.dropdown-menu li a:hover {
+	color:#ff80bf;
+}
+.navbar-custom.top-nav-collapse .nav li a:hover,
+.navbar-custom .nav li a:hover,
+.navbar-custom .nav li.active a,.navbar-custom.top-nav-collapse .nav li.active a  {
+    color:#ff80bf;
+}
+
+
+.owl-theme .owl-controls .owl-page.active span,
+.owl-theme .owl-controls.clickable .owl-page:hover span {
+    background-color:#ff80bf;
+}
+
+
+.bg-skin {
+	background:#ff80bf;
+}
+
+.highlight-color {
+	background-color:#ff80bf;
+}
+.color {
+	color:#ff80bf;
+}
+
+/* pricing box  */
+.pricing-content.featured h2,.pricing-content.featured .price-bottom {
+	background-color:#ff80bf;
+}
+.pricing-content.featured h3 {
+	background:#ff80bf;
+}
+
+
+
+/* team */
+
+
+form#contact-form input:focus,form#contact-form select:focus,form#contact-form textarea:focus {
+	border-color:#ff80bf;
+}
+form.search-form input:focus {
+	border-color:#ff80bf;
+}
+
+/* footer */
+ul.footer-menu li a:hover {
+	color:#ff80bf;
+}
+
