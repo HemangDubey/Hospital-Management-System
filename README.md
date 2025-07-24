@@ -87,9 +87,3 @@ Hospital-Management-System/
 **Hemang Dubey**   
 🔗 https://github.com/HemangDubey
 
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-EOF
